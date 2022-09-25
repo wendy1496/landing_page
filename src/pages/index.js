@@ -1,0 +1,6 @@
+export * from './Home/Home'
+export * from './Profile/Profile'
+export * from './Formation/Formation'
+export * from './Experience/Experience'
+export * from './Portafolio/Portafolio'
+export * from './Contact/Contact'
