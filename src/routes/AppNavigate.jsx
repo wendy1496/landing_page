@@ -2,7 +2,7 @@ import { Routes, Route } from "react-router-dom"
 import React from 'react'
 import './AppNavigate.css'
 
-import { Profile, Formation, Skills, Experience, Portfolio, Contact, Home } from "../pages"
+import { Profile, Formation, Experience, Portfolio, Contact, Home } from "../pages"
 
 export const AppNavigate = () => {
   return (
