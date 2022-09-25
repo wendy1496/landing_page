@@ -28,7 +28,7 @@ export const Portfolio = () => {
     title: 'Landing Page',
     img: landing,
     description: 'Proyecto final, landing page personal',
-    preview: 'https://github.com/wendy1496/landing_page',
+    preview: 'https://glittering-boba-1b662e.netlify.app/',
     link: 'https://github.com/wendy1496/landing_page'
   }]
 
