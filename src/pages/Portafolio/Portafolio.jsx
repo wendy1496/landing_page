@@ -28,8 +28,8 @@ export const Portfolio = () => {
     title: 'Landing Page',
     img: landing,
     description: 'Proyecto final, landing page personal',
-    preview: 'https://632fe8d59dc9972951f7c478--tiny-malasada-ebfa09.netlify.app/',
-    link: 'https://github.com/wendy1496/api-heroes'
+    preview: 'https://github.com/wendy1496/landing_page',
+    link: 'https://github.com/wendy1496/landing_page'
   }]
 
   const listProjects = projects.map((project, index) => (<div className='projects__items' key={index}>
